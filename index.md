@@ -1,11 +1,9 @@
-
+# folio Pages
+welcome to folio pages
 
 ![profileImage](https://user-images.githubusercontent.com/107624578/180329651-7c9243dc-bac1-4bff-a7fc-62c56fc36650.jpg)
-
-                                                # folio Pages
-                                                welcome to folio pages
-                                                - [GitHub] yykim0915.github.io
-                                                - yykim0915@gmail.com
+- yykim0915.github.io
+- yykim0915@gmail.com
 
 
 ## 경기도에 놀러와(경기도 citytour)
