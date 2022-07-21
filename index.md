@@ -1,7 +1,13 @@
+<script src="https://kit.fontawesome.com/0c510428ab.js" crossorigin="anonymous"></script>
+<div><i class="fa-solid fa-bus"></i></div>
+<i class="fa-brands fa-github"></i>
+<FontAwesomeIcon icon="fa-brands fa-github" />
+<font-awesome-icon icon="fa-brands fa-github" />
+
 # folio Pages
-welcome to folio pages
 
 ![profileImage](https://user-images.githubusercontent.com/107624578/180329651-7c9243dc-bac1-4bff-a7fc-62c56fc36650.jpg)
+- welcome to dvfolio pages
 - yykim0915.github.io
 - yykim0915@gmail.com
 
