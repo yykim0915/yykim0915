@@ -8,8 +8,7 @@ welcome to folio pages
 
 ## 경기도에 놀러와(경기도 citytour)
 경기도시티투어를 통한 노선별 통합정보제공
-https://youtu.be/R-rAzLltFo8
-
+[link](https://youtu.be/R-rAzLltFo8)
 
 ### sorce code
 - 데이터처리를 위해 DB(mysql) 연동시켰음
