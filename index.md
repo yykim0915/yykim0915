@@ -1,14 +1,15 @@
 <script src="https://kit.fontawesome.com/0c510428ab.js" crossorigin="anonymous"></script>
 
 # folio Pages
+welcome to dvfolio pages
+
 ![profileImage](https://user-images.githubusercontent.com/107624578/180329651-7c9243dc-bac1-4bff-a7fc-62c56fc36650.jpg)
-- welcome to dvfolio pages
 - yykim0915.github.io
 - yykim0915@gmail.com
 <div>
-  <a href="yykim0915.github.io"><i class="fa-brands fa-github"></i></a>
-  <a href="www.instagram.com/bluesalt0915_"><i class="fa-brands fa-instagram"></i></a>
-  <a href="https://www.youtube.com/channel/UCT4oW_ltFFnm5_r6qATTPGA"><i class="fa-brands fa-youtube"></i></a>
+  <a href="yykim0915.github.io"><i class="fa-brands fa-github fa-xl"></i></a>
+  <a href="https://www.instagram.com/bluesalt0915_"><i class="fa-brands fa-instagram fa-xl"></i></a>
+  <a href="https://www.youtube.com/channel/UCT4oW_ltFFnm5_r6qATTPGA"><i class="fa-brands fa-youtube fa-xl"></i></a>
 </div>
 
 
