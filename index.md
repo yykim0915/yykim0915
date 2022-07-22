@@ -5,13 +5,15 @@ welcome to dvfolio pages
 
 <div style="text-align:center;">
 ![profileImage](https://user-images.githubusercontent.com/107624578/180329651-7c9243dc-bac1-4bff-a7fc-62c56fc36650.jpg)
+</div>
+<div style="text-align:center;">
 - yykim0915.github.io
 - yykim0915@gmail.com
-    <div>
-        <a href="yykim0915.github.io"><i class="fa-brands fa-github fa-xl"></i></a>
-        <a href="https://www.instagram.com/bluesalt0915_"><i class="fa-brands fa-instagram fa-xl"></i></a>
-        <a href="https://www.youtube.com/channel/UCT4oW_ltFFnm5_r6qATTPGA"><i class="fa-brands fa-youtube fa-xl"></i></a>
-    </div>
+</div>
+<div style="text-align:center;">
+    <a href="yykim0915.github.io"><i class="fa-brands fa-github fa-3x"></i></a>
+    <a href="https://www.instagram.com/bluesalt0915_"><i class="fa-brands fa-instagram fa-3x"></i></a>
+    <a href="https://www.youtube.com/channel/UCT4oW_ltFFnm5_r6qATTPGA"><i class="fa-brands fa-youtube fa-3x"></i></a>
 </div>
 
 
