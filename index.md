@@ -4,10 +4,10 @@
 welcome to dvfolio pages
 
 <div style="text-align:center;">
-![profileImage](https://user-images.githubusercontent.com/107624578/180329651-7c9243dc-bac1-4bff-a7fc-62c56fc36650.jpg)
+![profileImage](https://user-images.githubusercontent.com/107624578/180672651-cce6c41b-92f5-48b9-9afb-39a6ba5a87b5.jpg)
 </div>
 <div style="text-align:center;">
-- yykim0915.github.io
+- yykim0915.github.io<br>
 - yykim0915@gmail.com
 </div>
 <div style="text-align:center;">
